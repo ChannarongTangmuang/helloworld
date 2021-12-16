@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\TempCalculator.exe.config
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\TempCalculator.exe
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\bin\Debug\TempCalculator.pdb
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.exe
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.pdb
+C:\Users\Admin\Documents\GitHub\helloworld\TempCalculator\TempCalculator\obj\Debug\TempCalculator.buttonConvert.resources
